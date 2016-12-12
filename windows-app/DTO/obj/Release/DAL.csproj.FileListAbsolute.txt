@@ -1,0 +1,24 @@
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\DAL.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\DAL.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\obj\Release\DAL.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\obj\Release\DAL.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\Microsoft.CSharp.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\System.Data.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\System.Data.Linq.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\System.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\System.Xml.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Release\System.Xml.Linq.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\Projects\Orienteering\DTO\bin\Release\DAL.dll
+G:\Projects\Orienteering\DTO\bin\Release\DAL.pdb
+G:\Projects\Orienteering\DTO\bin\Release\Microsoft.CSharp.dll
+G:\Projects\Orienteering\DTO\bin\Release\System.Data.DataSetExtensions.dll
+G:\Projects\Orienteering\DTO\bin\Release\System.Data.dll
+G:\Projects\Orienteering\DTO\bin\Release\System.Data.Linq.dll
+G:\Projects\Orienteering\DTO\bin\Release\System.dll
+G:\Projects\Orienteering\DTO\bin\Release\System.Xml.dll
+G:\Projects\Orienteering\DTO\bin\Release\System.Xml.Linq.dll
+G:\Projects\Orienteering\DTO\obj\Release\DAL.dll
+G:\Projects\Orienteering\DTO\obj\Release\DAL.pdb
+G:\Projects\Orienteering\DTO\obj\Release\DAL.csprojResolveAssemblyReference.cache

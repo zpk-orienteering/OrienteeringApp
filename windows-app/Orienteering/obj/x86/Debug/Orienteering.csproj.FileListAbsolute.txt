@@ -1,0 +1,113 @@
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Orienteering.exe
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Orienteering.pdb
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Elysium.dll
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Microsoft.Windows.Shell.dll
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Elysium.pdb
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Elysium.xml
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Microsoft.Windows.Shell.pdb
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\MainWindow.baml
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\MainWindow.g.cs
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\App.g.cs
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering_MarkupCompile.cache
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.g.resources
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.Properties.Resources.resources
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.csproj.GenerateResource.Cache
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.exe
+c:\users\mariusz-pc\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering_Content.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering_MarkupCompile.lref
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\QRCodeView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\QRCodeView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Resources\Dictionary.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\App.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\UsersView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\UsersView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\RoutesView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\RoutesView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\Database.sdf
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\DAL.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\DAL.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\ContestView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\ContestView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestDataPartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestDataPartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestUsersPartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestUsersPartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestRoutePartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestRoutePartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestControlPanelPartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestControlPanelPartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\AForge.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\AForge.Video.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.View.LoadQRViewWF.resources
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\OpenContestsWindow.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\OpenContestsWindow.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\zxing.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Debug\zxing.presentation.dll
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.exe
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.pdb
+G:\Projects\Orienteering\Orienteering\bin\Debug\Database.sdf
+G:\Projects\Orienteering\Orienteering\bin\Debug\Orienteering.exe.manifest
+G:\Projects\Orienteering\Orienteering\bin\Debug\Orienteering.application
+G:\Projects\Orienteering\Orienteering\bin\Debug\Orienteering.exe
+G:\Projects\Orienteering\Orienteering\bin\Debug\Orienteering.pdb
+G:\Projects\Orienteering\Orienteering\bin\Debug\DAL.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\Microsoft.CSharp.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\PresentationCore.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\PresentationFramework.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Data.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Data.Linq.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Drawing.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Windows.Forms.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Xaml.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Xml.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\System.Xml.Linq.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\WindowsBase.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\Microsoft.Windows.Shell.dll
+G:\Projects\Orienteering\Orienteering\bin\Debug\DAL.pdb
+G:\Projects\Orienteering\Orienteering\bin\Debug\Elysium.pdb
+G:\Projects\Orienteering\Orienteering\bin\Debug\Elysium.xml
+G:\Projects\Orienteering\Orienteering\bin\Debug\Microsoft.Windows.Shell.pdb
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.csprojResolveAssemblyReference.cache
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Resources\Dictionary.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestControlPanelPartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestDataPartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestRoutePartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestUsersPartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\LicenseWindow.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\OpenContestsWindow.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\QRCodeView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\RoutesView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\UsersView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\App.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\MainWindow.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\ContestView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestControlPanelPartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestDataPartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestRoutePartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\ContestUsersPartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\LicenseWindow.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\PartialViews\OpenContestsWindow.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\QRCodeView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\RoutesView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\UsersView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\App.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering_Content.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering_MarkupCompile.cache
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering_MarkupCompile.lref
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\MainWindow.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Views\ContestView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.g.resources
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.Properties.Resources.resources
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.View.LoadQRViewWF.resources
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.csproj.GenerateResource.Cache
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.exe.manifest
+G:\Projects\Orienteering\Orienteering\obj\x86\Debug\Orienteering.application

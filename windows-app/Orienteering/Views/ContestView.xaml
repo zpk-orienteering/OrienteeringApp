@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="Orienteering.Views.ContestView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:metro="clr-namespace:Elysium.Controls;assembly=Elysium"
+             xmlns:params="http://schemas.codeplex.com/elysium/params"
+             xmlns:local="clr-namespace:Orienteering.Views.PartialViews"
+             mc:Ignorable="d" 
+             d:DesignHeight="545" d:DesignWidth="603">
+    <Grid>
+        <TabControl Name="tabControl" MouseLeftButtonDown="tabControl_MouseLeftButtonDown" MouseLeftButtonUp="tabControl_MouseLeftButtonDown">
+            <TabItem Header="Metryka zawodów" MouseLeftButtonDown="TabItem_MouseLeftButtonDown" MouseLeftButtonUp="TabItem_MouseLeftButtonDown">
+                <local:ContestDataPartialView/>
+            </TabItem>
+            <TabItem Header="Uczestnicy" MouseLeftButtonDown="TabItem_MouseLeftButtonDown" MouseLeftButtonUp="TabItem_MouseLeftButtonDown">
+                <local:ContestUsersPartialView />
+            </TabItem>
+            <TabItem Header="Trasa" MouseLeftButtonDown="TabItem_MouseLeftButtonDown" MouseLeftButtonUp="TabItem_MouseLeftButtonDown">
+                <local:ContestRoutePartialView />
+            </TabItem>
+            <TabItem Header="Zarządzanie zawodami" IsEnabled="{Binding IsDataPrepared}" MouseLeftButtonDown="TabItem_MouseLeftButtonDown" MouseLeftButtonUp="TabItem_MouseLeftButtonDown">
+                <local:ContestControlPanelPartialView />
+            </TabItem>
+        </TabControl>
+    </Grid>
+</UserControl>

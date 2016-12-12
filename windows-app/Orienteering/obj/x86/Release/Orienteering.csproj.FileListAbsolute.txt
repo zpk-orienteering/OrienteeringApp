@@ -1,0 +1,134 @@
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Resources\Dictionary.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestControlPanelPartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestDataPartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestRoutePartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestUsersPartialView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\OpenContestsWindow.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\QRCodeView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\RoutesView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\UsersView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\App.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\MainWindow.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\ContestView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestControlPanelPartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestDataPartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestRoutePartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestUsersPartialView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\OpenContestsWindow.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\QRCodeView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\RoutesView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\UsersView.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\App.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering_Content.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering_MarkupCompile.cache
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering_MarkupCompile.lref
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Database.sdf
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Orienteering.exe
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Orienteering.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\AForge.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\AForge.Video.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\DAL.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Elysium.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\zxing.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\zxing.presentation.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Microsoft.Windows.Shell.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\DAL.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Elysium.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Elysium.xml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Microsoft.Windows.Shell.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\MainWindow.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\ContestView.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.g.resources
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.Properties.Resources.resources
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.View.LoadQRViewWF.resources
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.csproj.GenerateResource.Cache
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.exe
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Orienteering.exe.manifest
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Orienteering.application
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.exe.manifest
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.application
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\Microsoft.CSharp.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\PresentationCore.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\PresentationFramework.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Data.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Data.Linq.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Drawing.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Windows.Forms.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Xaml.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Xml.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\System.Xml.Linq.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\bin\Release\WindowsBase.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\LicenseWindow.baml
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\LicenseWindow.g.cs
+Z:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.exe
+Z:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.pdb
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.exe
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.pdb
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.csprojResolveAssemblyReference.cache
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Resources\Dictionary.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestControlPanelPartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestDataPartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestRoutePartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestUsersPartialView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\LicenseWindow.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\OpenContestsWindow.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\QRCodeView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\RoutesView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\UsersView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\App.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\MainWindow.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\ContestView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestControlPanelPartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestDataPartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestRoutePartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\ContestUsersPartialView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\LicenseWindow.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\PartialViews\OpenContestsWindow.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\QRCodeView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\RoutesView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\UsersView.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\App.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering_Content.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering_MarkupCompile.cache
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering_MarkupCompile.lref
+G:\Projects\Orienteering\Orienteering\bin\Release\Database.sdf
+G:\Projects\Orienteering\Orienteering\bin\Release\Orienteering.exe.manifest
+G:\Projects\Orienteering\Orienteering\bin\Release\Orienteering.application
+G:\Projects\Orienteering\Orienteering\bin\Release\Orienteering.exe
+G:\Projects\Orienteering\Orienteering\bin\Release\Orienteering.pdb
+G:\Projects\Orienteering\Orienteering\bin\Release\DAL.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\Microsoft.CSharp.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\PresentationCore.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\PresentationFramework.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Data.DataSetExtensions.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Data.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Data.Linq.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Drawing.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Windows.Forms.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Xaml.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Xml.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\System.Xml.Linq.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\WindowsBase.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\Microsoft.Expression.Drawing.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\Microsoft.Windows.Shell.dll
+G:\Projects\Orienteering\Orienteering\bin\Release\DAL.pdb
+G:\Projects\Orienteering\Orienteering\bin\Release\Elysium.pdb
+G:\Projects\Orienteering\Orienteering\bin\Release\Elysium.xml
+G:\Projects\Orienteering\Orienteering\bin\Release\Microsoft.Windows.Shell.pdb
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\MainWindow.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Views\ContestView.baml
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.g.resources
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.Properties.Resources.resources
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.View.LoadQRViewWF.resources
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.csproj.GenerateResource.Cache
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.exe.manifest
+G:\Projects\Orienteering\Orienteering\obj\x86\Release\Orienteering.application

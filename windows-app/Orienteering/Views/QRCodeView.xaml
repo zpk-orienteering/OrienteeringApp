@@ -1,0 +1,112 @@
+﻿<UserControl x:Class="Orienteering.Views.QRCodeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:metro="clr-namespace:Elysium.Controls;assembly=Elysium"
+             xmlns:params="http://schemas.codeplex.com/elysium/params"
+             mc:Ignorable="d" 
+             d:DesignHeight="545" d:DesignWidth="603">
+    <Grid>
+        <TabControl Name="tabControl" MouseLeftButtonDown="TabControl_MouseLeftButtonDown" MouseLeftButtonUp="TabControl_MouseLeftButtonUp">
+            <TabItem Header="Lista kodów">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="250" />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid Height="300" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0,50,0,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="60" />
+                            <RowDefinition Height="60" />
+                            <RowDefinition Height="60" />
+                        </Grid.RowDefinitions>
+                        <Button Name="btnDodaj" Height="45" Width="150" Content="dodaj" FontFamily="Resources/Fonts/seoge_ui_light.ttf" FontSize="18" VerticalAlignment="Top" Command="{Binding CreateNewControlPoint}" Click="btnDodaj_Click" />
+                        <Button Grid.Row="1" Height="45" Width="150" Content="usuń" FontFamily="Resources/Fonts/seoge_ui_light.ttf" FontSize="18" VerticalAlignment="Top" Command="{Binding DeleteControlPoint}"/>
+                        <Button Grid.Row="2" Height="45" Width="150" Content="zapisz jako" FontFamily="Resources/Fonts/seoge_ui_light.ttf" FontSize="18" VerticalAlignment="Top" Command="{Binding SaveQrCodeToFile}"/>
+                    </Grid>
+                    <ListBox Grid.Column="1"  Margin="10,50,10,50" Height="Auto" 
+                     ItemsSource="{Binding ControlPoints}"
+                     SelectedItem="{Binding SelectedControlPoint, Mode=TwoWay}"
+                     ItemTemplate="{DynamicResource QrCodeListTemplate}" />
+                    <Border Grid.Column="2" Width="256" Height="256" VerticalAlignment="Top" Margin="0,50,0,0">
+                        <Image Source="{Binding CodePreview}"/>
+                    </Border>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Nowy kod">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="250" />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Button Height="45" Width="150" Content="zapisz" 
+                FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                FontSize="18"
+                VerticalAlignment="Top" 
+                HorizontalAlignment="Left" 
+                Margin="0,50,0,0"
+                Command="{Binding AddNewControlPoint}" />
+                    <Grid Grid.Column="1" Margin="0,50,0,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="200" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="70" />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <ComboBox Height="45" Grid.Column="1" Margin="10,0,10,0" 
+                                  FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                                  ItemsSource="{Binding ControlPointModes}"
+                                  SelectedItem="{Binding SelectedControlPointMode, Mode=TwoWay}" />
+                        <Label Content="numer" Height="45" Grid.Row="1"
+                       FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                       FontSize="20" 
+                       HorizontalContentAlignment="Right" ToolTip="Numer punktu kontrolnego" />
+                        <TextBox Name="qrCodeText" 
+                             Grid.Column="1"
+                             Text="{Binding Text, Mode=TwoWay}"
+                             Grid.Row="1"
+                             Margin="10,0,10,0" 
+                             Height="45" 
+                             FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                             FontSize="20"  />
+                        <Label Grid.Row="2" Content="kod" Height="45" 
+                       FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                       FontSize="20" 
+                       HorizontalContentAlignment="Right" ToolTip="Kod punktu kontrolnego" />
+                        <TextBox Grid.Row="2" 
+                     Grid.Column="1"
+                     Text="{Binding Name, Mode=TwoWay}"
+                     Margin="10,0,10,0" 
+                     Height="45" 
+                     FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                     FontSize="20" />
+                        <Label Grid.Row="3" Content="opis" Height="45" 
+                           FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                           FontSize="20" 
+                           HorizontalContentAlignment="Right"
+                               VerticalAlignment="Top"/>
+                        <TextBox Grid.Row="3" 
+                             Grid.Column="1" 
+                             Text="{Binding Info, Mode=TwoWay}"
+                             Margin="10,2,10,2" 
+                             TextWrapping="Wrap"
+                             AcceptsReturn="True"
+                             VerticalContentAlignment="Top" 
+                             FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                             FontSize="20" VerticalScrollBarVisibility="Auto" />
+                    </Grid>
+                    <Border Grid.Column="2" Width="256" Height="256" BorderBrush="#33FFFFFF" BorderThickness="2" VerticalAlignment="Top" Margin="0,100,0,0">
+                        <Image Name="qrCodeImage" Source="{Binding CodeView}" />
+                    </Border>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</UserControl>

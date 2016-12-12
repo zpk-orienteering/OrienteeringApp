@@ -1,0 +1,4 @@
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Debug\DTO.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Debug\DTO.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\obj\Debug\DTO.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="Orienteering.Views.PartialViews.ContestDataPartialView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:metro="clr-namespace:Elysium.Controls;assembly=Elysium"
+             xmlns:params="http://schemas.codeplex.com/elysium/params"
+             mc:Ignorable="d" 
+             d:DesignHeight="545" d:DesignWidth="603">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0,50,0,0">
+            <Button Height="45" Width="150" Content="zapisz" FontFamily="Resources/Fonts/seoge_ui_light.ttf" FontSize="18" VerticalAlignment="Top" Command="{Binding SaveData}" />
+        </Grid>
+        <Grid Grid.Column="2" Margin="0,50,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="200" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Label Content="nazwa" Height="45" 
+                       FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                       FontSize="18" 
+                       HorizontalContentAlignment="Right"/>
+            <TextBox Grid.Column="1" Margin="10,0,10,0" 
+                     Height="45" FontFamily="Resources/Fonts/seoge_ui_light.ttf" FontSize="18" 
+                     Width="300" HorizontalAlignment="Left"
+                     Text="{Binding Name}"/>
+            <Label Grid.Row="1" Content="data" Height="45" 
+                       FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                       FontSize="18" 
+                       HorizontalContentAlignment="Right"/>
+            <DatePicker Grid.Row="1" Grid.Column="1" Margin="10,0,10,0" Width="300"
+                        FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                       FontSize="18" HorizontalAlignment="Left" VerticalContentAlignment="Center" SelectedDate="{Binding Date}"/>
+            <Label Grid.Row="2" Content="opis" Height="45" 
+                       FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                       FontSize="18" 
+                       HorizontalContentAlignment="Right"
+                               VerticalAlignment="Top"/>
+            <TextBox Grid.Row="2" Grid.Column="1" 
+                     Margin="10,3,10,0" 
+                     Width="300" 
+                     FontFamily="Resources/Fonts/seoge_ui_light.ttf" 
+                     FontSize="18" 
+                     HorizontalAlignment="Left"
+                     Text="{Binding Info, Mode=TwoWay}"
+                     TextWrapping="Wrap"
+                     AcceptsReturn="True"
+                     VerticalContentAlignment="Top"
+                     VerticalScrollBarVisibility="Auto" />
+        </Grid>
+    </Grid>
+</UserControl>

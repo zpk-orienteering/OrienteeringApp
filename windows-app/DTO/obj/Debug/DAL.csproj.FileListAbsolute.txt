@@ -1,0 +1,15 @@
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Debug\DAL.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\bin\Debug\DAL.pdb
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\obj\Debug\DAL.dll
+C:\Users\Mariusz-PC\documents\visual studio 2010\Projects\Orienteering\DTO\obj\Debug\DAL.pdb
+G:\Projects\Orienteering\DTO\bin\Debug\DAL.dll
+G:\Projects\Orienteering\DTO\bin\Debug\DAL.pdb
+G:\Projects\Orienteering\DTO\bin\Debug\Microsoft.CSharp.dll
+G:\Projects\Orienteering\DTO\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Projects\Orienteering\DTO\bin\Debug\System.Data.dll
+G:\Projects\Orienteering\DTO\bin\Debug\System.Data.Linq.dll
+G:\Projects\Orienteering\DTO\bin\Debug\System.dll
+G:\Projects\Orienteering\DTO\bin\Debug\System.Xml.dll
+G:\Projects\Orienteering\DTO\bin\Debug\System.Xml.Linq.dll
+G:\Projects\Orienteering\DTO\obj\Debug\DAL.dll
+G:\Projects\Orienteering\DTO\obj\Debug\DAL.pdb
