@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_aligned"
+    android:orientation="vertical"
+    android:weightSum="1.0" >
+
+    <TextView
+        android:id="@+id/txtStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_weight="0.1"
+        android:clickable="true"
+        android:gravity="center_horizontal"
+        android:minHeight="70dip"
+        android:onClick="ExportRun"
+        android:text="Gotowy do biegu"
+        android:textSize="27dp" />
+        <TextView
+        android:id="@+id/txtRunnerId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.1"
+        android:clickable="true"
+        android:onClick="SetUserID"
+        android:text="Ustaw identyfikator." />
+    
+    <TextView
+        android:id="@+id/txtTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_weight="0.4"
+        android:clickable="false"
+        android:gravity="center_horizontal|bottom"
+        android:text="00:00:00"
+        android:textSize="70sp"
+        android:typeface="normal" />
+
+    <TextView
+        android:id="@+id/lblTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.1"
+        android:text="godziny                  minuty                  sekundy" />
+    
+
+    
+    <Button
+        android:id="@+id/scanCode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnDebugStart"
+        android:layout_weight="0.2"
+        android:minHeight="118dip"
+        android:onClick="scan"
+        android:text="@string/scanCode"
+        android:background="@android:drawable/btn_default"
+         />
+
+    <LinearLayout android:orientation="horizontal"
+        		  android:weightSum="6"
+        		  android:layout_width="match_parent"
+    			  android:layout_height="wrap_content"
+        		  android:layout_weight="0.1">
+        		  
+       	<Button
+       	    android:id="@+id/btnDebugStart"
+       	    android:layout_width="match_parent"
+       	    android:layout_height="match_parent"
+       	    android:layout_weight="2"
+       	    android:onClick="DebugStart"
+       	    android:text="Start"
+       	    android:visibility="gone" />
+
+	    <Button
+	        android:id="@+id/btnDebugCheckpoint"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2"
+	        android:onClick="DebugCheckpoint"
+	        android:text="Punkt"
+	        android:visibility="gone" />
+	
+	    <Button
+	        android:id="@+id/btnDebugFinish"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:layout_weight="2"
+	        android:onClick="DebugFinish"
+	        android:text="Koniec"
+	        android:visibility="gone" />
+
+    </LinearLayout>    
+
+</LinearLayout>

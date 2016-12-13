@@ -1,0 +1,136 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_aligned_w"
+     >
+
+    <TextView
+        android:id="@+id/txtRunHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"        
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:drawable/btn_default"
+        android:onClick="GoBack"
+        android:text="@string/back" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button1"
+        android:layout_alignLeft="@+id/lblRunEnded"
+        android:background="@android:drawable/btn_default"
+        android:onClick="Delete"
+        android:text="@string/delete" />
+
+    <TextView
+        android:id="@+id/lblRunStarted"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txtRunHeader"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:text="@string/runStartedDate" />
+
+    <TextView
+        android:id="@+id/lblRunEnded"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtRunHeader"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="5dp"
+        android:text="@string/runEndedDate" />
+
+    <TextView
+        android:id="@+id/txtRunStartedDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@+id/lblRunStarted" />
+
+    <TextView
+        android:id="@+id/txtRunEndedDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_below="@+id/lblRunEnded" />
+
+    <TextView
+        android:id="@+id/lblCheckpointTimes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtFullUserID"
+        android:layout_centerHorizontal="false"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:text="@string/runCheckpointTimes" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="false"
+        android:layout_below="@id/lblCheckpointTimes"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="100dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/txtCheckpointTimes"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"                
+                android:layout_marginLeft="5dp"
+                android:text="" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/lblRunStarted"
+        android:background="@android:drawable/btn_default"
+        android:onClick="Export"
+        android:text="@string/Export" />
+
+    <TextView
+        android:id="@+id/lblUserID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txtRunStartedDate"
+        android:layout_marginTop="5dip"
+        android:layout_marginLeft="5dp"
+        android:text="@string/ID" />
+
+    <TextView
+        android:id="@+id/txtFullUserID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/lblUserID"
+        android:layout_marginLeft="5dp"
+        android:text="0" />
+
+</RelativeLayout>

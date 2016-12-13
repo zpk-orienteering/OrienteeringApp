@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/lblCodeSegment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="false"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal"
+        android:minWidth="60dip"
+        android:text="1/1"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/btnPrevPart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/lblCodeSegment"
+        android:layout_alignBottom="@+id/lblCodeSegment"
+        android:layout_toLeftOf="@+id/lblCodeSegment"
+        android:minWidth="80dip"
+        android:onClick="PrevPart"
+        android:text="&lt;" />
+
+    <Button
+        android:id="@+id/btnNextPart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/lblCodeSegment"
+        android:layout_alignBottom="@+id/lblCodeSegment"
+        android:layout_toRightOf="@+id/lblCodeSegment"
+        android:minWidth="80dip"
+        android:onClick="NextPart"
+        android:text=">" />
+
+    <ImageView
+        android:id="@+id/imgCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <ProgressBar
+        android:id="@+id/progCodeLoading"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="visible" />
+
+</RelativeLayout>
